@@ -15,10 +15,10 @@ python -m pip install -r requirements.txt
 
 ## Usage
 
-Run the notebooks from the CLI/IDE
+Run the notebooks from CLI
 
 
 ```bash
 source env/bin/activate
-python3 -m nasa_apis
+jupyter notebooks
 ```
